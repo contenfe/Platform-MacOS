@@ -1,0 +1,14 @@
+ignore
+
+#文件
+
+设计模式/*/build
+设计模式/*/bin
+
+.DS_Store
+.exe
+
+
+
+# 文件夹
+飞思
