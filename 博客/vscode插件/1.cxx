@@ -1,7 +1,7 @@
 /*
  * @Author: Aaron_qin
  * @Date: 2023-02-01 18:56:03
- * @LastEditTime: 2023-02-02 21:33:24
+ * @LastEditTime: 2023-02-03 12:03:30
  * @LastEditors: Aaron_qin
  * @Description:
  * @FilePath: /mydocument/Platform-MacOS/博客/vscode插件/1.cxx
@@ -20,6 +20,8 @@ using namespace std;
 // fix:
 double calc(int d, double s)
 {
+    {
+        }
     cout << "hello\n";
 }
 
