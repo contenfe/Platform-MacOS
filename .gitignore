@@ -12,3 +12,14 @@ ignore
 
 # 文件夹
 飞思
+
+*.dll
+
+*.pdb
+
+CMakeCache.txt
+
+bin/
+build/
+CMakeFiles/
+.cmake

@@ -1,0 +1,15 @@
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/DEMO.csproj.AssemblyReference.cache
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/DEMO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/DEMO.AssemblyInfoInputs.cache
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/DEMO.AssemblyInfo.cs
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/DEMO.csproj.CoreCompileInputs.cache
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/bin/Debug/net6.0/DEMO
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/bin/Debug/net6.0/DEMO.deps.json
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/bin/Debug/net6.0/DEMO.runtimeconfig.json
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/bin/Debug/net6.0/DEMO.dll
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/bin/Debug/net6.0/DEMO.pdb
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/DEMO.dll
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/refint/DEMO.dll
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/DEMO.pdb
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/DEMO.genruntimeconfig.cache
+/Users/qinwusheng/mydocument/Platform-MacOS/C#/DEMO/obj/Debug/net6.0/ref/DEMO.dll
